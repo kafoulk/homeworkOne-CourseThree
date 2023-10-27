@@ -1,0 +1,17 @@
+{
+  "name": "navurl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "serve": "live-server"
+  },
+  "author": "Kiersten Foulk",
+  "license": "ISC",
+  "devDependencies": {
+    "hint": "^7.1.10"
+  }
+}
